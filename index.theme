@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=gruveye
+Comment=Gruveye theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=gruveye
+GtkTheme=gruveye
+MetacityTheme=gruveye
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
