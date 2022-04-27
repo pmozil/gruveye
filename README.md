@@ -5,7 +5,7 @@ Gruveye gtk theme
 
 >$ git clone https://gitlab.com/pmozil/gruveye
 
->S cd gruveye
+>$ cd gruveye
 
 >$ sudo bash install.sh
 
